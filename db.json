@@ -7,7 +7,8 @@
       "contactNo": "1234",
       "email": "client1@client.com",
       "availableTime": "3",
-      "validId": "ok"
+      "validId": "ok",
+      "isPending": "0"
     }
   ],
   "freelancers": [
@@ -27,7 +28,8 @@
       "Projectname": "project1",
       "ClientName": "client1",
       "GanteChartPic": "active",
-      "status": "active"
+      "status": "active",
+      "isPending": "0"
     }
   ]
 }
