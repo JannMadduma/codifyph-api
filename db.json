@@ -1,31 +1,33 @@
 {
-    "clients": [
-        {"idNo": 1, 
-        "name": "client1", 
-        "concerns": "website", 
-        "contactNo": "1234", 
-        "email": "client1@client.com",
-        "availableTime": "3",
-        "validId": "ok"
-    },
-
-    ],
-    "freelancers": [
-        {"idNo": 1, 
-        "name": "client1", 
-        "concerns": "website", 
-        "contactNo": "1234", 
-        "email": "client1@client.com",
-        "availableTime": "3",
-        "validId": "ok"
-    },
-    ],
-    "projects": [
-        {"idNo": 1, 
-        "Projectname": "project1", 
-        "ClientName": "client1", 
-        "GanteChartPic": "active", 
-        "status": "active",
-       },
-    ],
-  }
+  "clients": [
+    {
+      "idNo": 1,
+      "name": "client1",
+      "concerns": "website",
+      "contactNo": "1234",
+      "email": "client1@client.com",
+      "availableTime": "3",
+      "validId": "ok"
+    }
+  ],
+  "freelancers": [
+    {
+      "idNo": 1,
+      "name": "client1",
+      "concerns": "website",
+      "contactNo": "1234",
+      "email": "client1@client.com",
+      "availableTime": "3",
+      "validId": "ok"
+    }
+  ],
+  "projects": [
+    {
+      "idNo": 1,
+      "Projectname": "project1",
+      "ClientName": "client1",
+      "GanteChartPic": "active",
+      "status": "active"
+    }
+  ]
+}
